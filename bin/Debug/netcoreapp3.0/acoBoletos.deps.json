@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "acoBoletos/1.0.0": {
+        "dependencies": {
+          "Boleto.Net": "2.1.0.803"
+        },
+        "runtime": {
+          "acoBoletos.dll": {}
+        }
+      },
+      "Boleto.Net/2.1.0.803": {
+        "runtime": {
+          "lib/Boleto.Net.dll": {
+            "assemblyVersion": "2.0.1.4",
+            "fileVersion": "2.0.1.4"
+          },
+          "lib/NReco.PdfGenerator.dll": {
+            "assemblyVersion": "1.1.12.0",
+            "fileVersion": "1.1.12.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "acoBoletos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Boleto.Net/2.1.0.803": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t7SMs2L85Py45QrL9pxIoAVOIVCW9g8T/anJMJqWpM82fLbUMjSxvrsLew9BGTokkUMdACDUdM1gk7N6dBIjJw==",
+      "path": "boleto.net/2.1.0.803",
+      "hashPath": "boleto.net.2.1.0.803.nupkg.sha512"
+    }
+  }
+}

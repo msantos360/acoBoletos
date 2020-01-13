@@ -1,0 +1,14 @@
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/acoBoletos
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/acoBoletos.deps.json
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/acoBoletos.runtimeconfig.json
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/acoBoletos.runtimeconfig.dev.json
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/acoBoletos.dll
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/acoBoletos.pdb
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/Boleto.Net.dll
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/NReco.PdfGenerator.dll
+/home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.csprojAssemblyReference.cache
+/home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.AssemblyInfoInputs.cache
+/home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.AssemblyInfo.cs
+/home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.csproj.CopyComplete
+/home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.dll
+/home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.pdb
