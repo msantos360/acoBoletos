@@ -1,7 +1,7 @@
 using System;
 using Caelum.Stella.CSharp.Validation;
 
-class SacadoValidation {
+class SacadoValidation : IValidation{
     private string nome;
 
     private string identy;
@@ -9,7 +9,9 @@ class SacadoValidation {
     public SacadoValidation(Sacado sacado){
         this.nome = sacado.nome;
         this.identy = sacado.identy;
+    }
 
+    public void execute(){
         validaNome();
         validaIdenty();
     }

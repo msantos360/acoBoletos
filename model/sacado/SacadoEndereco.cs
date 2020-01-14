@@ -28,7 +28,7 @@ class SacadoEndereco {
         this.uf = uf;
         this.cep = cep;
 
-        new SacadoEnderecoValidation(this);
+        new SacadoEnderecoValidation(this).execute();
     }
 
 

@@ -24,7 +24,7 @@ class Cedente {
         this.contaCorrente = contaCorrente;
         this.cnab = cnab;
 
-        new CedenteValidation(this);
+        new CedenteValidation(this).execute();
     }
 
 

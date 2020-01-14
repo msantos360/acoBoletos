@@ -16,7 +16,7 @@ class Sacado {
         this.identy = identy;
         this.endereco = endereco;
 
-        new SacadoValidation(this);
+        new SacadoValidation(this).execute();
     }
 
 }

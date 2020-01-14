@@ -1,5 +1,5 @@
 using System;
-class SacadoEnderecoValidation{
+class SacadoEnderecoValidation : IValidation{
     private string logradouro;
 
     private int numero;
@@ -21,12 +21,14 @@ class SacadoEnderecoValidation{
         //this.uf = sacadoEndereco.uf;
         this.cep = sacadoEndereco.cep;
 
+    }
+
+    public void execute(){
         validaLogradouro();
         validaNumero();
         validaBairro();
         validaLocalidade();
         validaCep();
-
     }
 
     private void validaLogradouro(){

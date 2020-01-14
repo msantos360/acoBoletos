@@ -1,6 +1,6 @@
 using System;
 using Caelum.Stella.CSharp.Validation;
-class CedenteValidation {
+class CedenteValidation : IValidation{
     private string nome;
 
     private string cnpj;
@@ -8,7 +8,10 @@ class CedenteValidation {
     public CedenteValidation(Cedente cedente){
         this.nome = cedente.nome;
         this.cnpj = cedente.cnpj;
+    }
 
+    public void execute()
+    {
         validaNome();
         validaCnpj();
     }
@@ -27,6 +30,5 @@ class CedenteValidation {
         new CNPJValidator().AssertValid(this.cnpj);
     }
 
-
-
+    
 }
