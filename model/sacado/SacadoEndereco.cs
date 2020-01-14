@@ -27,6 +27,8 @@ class SacadoEndereco {
         this.localidade = localidade;
         this.uf = uf;
         this.cep = cep;
+
+        new SacadoEnderecoValidation(this);
     }
 
 
