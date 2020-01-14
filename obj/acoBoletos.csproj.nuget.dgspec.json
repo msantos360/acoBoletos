@@ -39,6 +39,10 @@
             "Boleto.Net": {
               "target": "Package",
               "version": "[2.1.0.803, )"
+            },
+            "Caelum.Stella.CSharp": {
+              "target": "Package",
+              "version": "[1.4.7, )"
             }
           },
           "imports": [

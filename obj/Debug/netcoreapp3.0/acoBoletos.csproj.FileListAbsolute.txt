@@ -12,3 +12,5 @@
 /home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.csproj.CopyComplete
 /home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.dll
 /home/msantos/Documents/acotubo/acoBoletos/obj/Debug/netcoreapp3.0/acoBoletos.pdb
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/Caelum.Stella.CSharp.dll
+/home/msantos/Documents/acotubo/acoBoletos/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
