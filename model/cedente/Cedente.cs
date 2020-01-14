@@ -23,6 +23,8 @@ class Cedente {
         this.incricao = inscricao;
         this.contaCorrente = contaCorrente;
         this.cnab = cnab;
+
+        new CedenteValidation(this);
     }
 
 
