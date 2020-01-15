@@ -23,6 +23,8 @@ public class ContaCorrente {
         this.conta = conta;
         this.dgConta = dgConta;
         this.dgAgConta = dgAgConta;
+
+        new ContaCorrenteValidation(this).execute();
     }
 
 

@@ -11,6 +11,8 @@ public class Inscricao {
         this.tipo = tipo;
         this.numero = numero;
         this.convenio = convenio;
+
+        new InscricaoValidation(this).execute();
     }
 
 
